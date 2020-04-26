@@ -17,8 +17,8 @@ from django.conf.urls import url
 from django.contrib import admin
 from django.urls import path, include
 
-admin.site.site_title = '竹悦大规模分布式集群云存储软件'
-admin.site.site_header = '竹悦大规模分布式集群云存储软件'
+admin.site.site_title = '宛晨大规模分布式集群云存储软件'
+admin.site.site_header = '宛晨大规模分布式集群云存储软件'
 
 urlpatterns = [
     # 配置admindoc
